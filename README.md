@@ -1,15 +1,19 @@
-<h2 align="left">Hi 👋! My name is Harshil and I'm a Curious learner from our beautiful Earth.</h2>
+## Hi 👋 I'm Harshil — curious learner from Earth
+
+**About me:** A curious learner exploring software, web development, and open-source. I enjoy building clean, maintainable projects and learning new technologies.
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeBloodedDeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=CodeBloodedDeveloper&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeBloodedDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <!-- Replaced unreliable widgets with more stable profile cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeBloodedDeveloper&theme=dark" height="150" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeBloodedDeveloper&theme=dark" height="150" alt="profile stats" />
+  <img src="https://ghchart.rshah.org/CodeBloodedDeveloper" height="150" alt="contributions chart" />
 </div>
 
 ###
 
+### Languages & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -27,27 +31,40 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/harshil_awasthi.zip" target="_blank">
+  <a href="https://instagram.com/harshil_awasthi.zip" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="awasthi0351@gmail.com" target="_blank">
+  <a href="mailto:awasthi0351@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/harshil-awasthi-680608118" target="_blank">
+  <a href="https://www.linkedin.com/in/harshil-awasthi-680608118" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-###
+### Projects
+Here are a few highlights — replace these with your top repositories and short descriptions:
 
-<br clear="both">
+- [Project One](https://github.com/CodeBloodedDeveloper/project-one) — Short description. ⭐
+- [Project Two](https://github.com/CodeBloodedDeveloper/project-two) — Short description. 🚀
 
-<img align="right" height="00" src=""  />
+Want visuals? Add screenshots or a GIF:
 
-###
+```
+![project-screenshot](path/to/screenshot.png)
+```
 
-<br clear="both">
+### Contact
+If you'd like to collaborate or hire me, reach out:
 
-<img src="https://raw.githubusercontent.com/CodeBloodedDeveloper/CodeBloodedDeveloper/output/snake.svg" alt="Snake animation" />
+- Email: [awasthi0351@gmail.com](mailto:awasthi0351@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/harshil-awasthi-680608118
 
-###
+### Contributing
+Contributions are welcome! Please open issues or PRs. Consider adding a `CONTRIBUTING.md` with contribution guidelines.
+
+---
+
+> **Note:** Some third-party stats widgets can be unreliable; replaced with more stable profile cards and a contributions chart above. If you'd like the original animated snake, add `output/snake.svg` to the repository and I'll re-enable it.
+
+---
