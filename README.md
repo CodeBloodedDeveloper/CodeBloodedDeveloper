@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-###
+### Contact
 
 <div align="left">
   <a href="https://instagram.com/harshil_awasthi.zip" target="_blank" rel="noopener noreferrer">
@@ -41,9 +41,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-### Contact
-If you'd like to collaborate or hire me, reach out:
-
-- Email: [awasthi0351@gmail.com](mailto:awasthi0351@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/harshil-awasthi-680608118
