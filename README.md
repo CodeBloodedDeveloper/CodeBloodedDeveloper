@@ -42,29 +42,8 @@
   </a>
 </div>
 
-### Projects
-Here are a few highlights — replace these with your top repositories and short descriptions:
-
-- [Project One](https://github.com/CodeBloodedDeveloper/project-one) — Short description. ⭐
-- [Project Two](https://github.com/CodeBloodedDeveloper/project-two) — Short description. 🚀
-
-Want visuals? Add screenshots or a GIF:
-
-```
-![project-screenshot](path/to/screenshot.png)
-```
-
 ### Contact
 If you'd like to collaborate or hire me, reach out:
 
 - Email: [awasthi0351@gmail.com](mailto:awasthi0351@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/harshil-awasthi-680608118
-
-### Contributing
-Contributions are welcome! Please open issues or PRs. Consider adding a `CONTRIBUTING.md` with contribution guidelines.
-
----
-
-> **Note:** Some third-party stats widgets can be unreliable; replaced with more stable profile cards and a contributions chart above. If you'd like the original animated snake, add `output/snake.svg` to the repository and I'll re-enable it.
-
----
